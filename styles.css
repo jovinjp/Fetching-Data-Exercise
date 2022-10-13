@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2018/03/10/22/52/bitcoin-3215559_960_720.jpg);
+} 
+
+div {
+    border: 10px solid black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+ul {
+    background-color: black;
+}
