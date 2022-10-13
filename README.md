@@ -1,4 +1,6 @@
 # Fetch-Data-Exercise
+https://jovinjp.github.io/Fetching-Data-Exercise/
+
 <h1>Fetch Data</h1>
 <h2>Brief Description</h2>
 <p>This is an exercise conducted by MIT xPRO showing refactoring data as well as using fetch.</p>
